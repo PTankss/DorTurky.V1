@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['96176143343'] //ur owner number
+global.ownername = "🦄𝔻𝕠𝕣𝕋𝕦𝕣𝕜𝕪🦄" //ur owner name
+global.ytname = "YT: DorTurky" //ur yt chanel name
+global.socialm = "Insta: DorTurky_" //ur github or insta name
+global.location = "United States, New York" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.owner = ['96176143343']
+global.ownertag = '96176143343' //ur tag number
+global.botname = '𝐃𝐨𝐫𝐓𝐮𝐫𝐤𝐲 𝐕𝟏' //ur bot name
+global.linkz = "https://youtube.com/@Dorturkyy" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@Dorturkyy" //ur website to be displayed
+global.botscript = 'https://youtube.com/@Dorturkyy' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "𝐘𝐎𝐔𝐓𝐔𝐁𝐄: 𝐃𝐎𝐑𝐓𝐔𝐑𝐊𝐘 🎯👤Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄D̾O̾R̾T̾U̾R̾K̾Y̾ ̾O̾F̾F̾I̾C̾I̾A̾L̾♘♖♘" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -106,18 +106,18 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    admin: 'This Feature Is Only For Admin,You are only a poor memmber here,chatting with no money.lol.what a generation,leave this gc and work on yourself instead of chatting random people *that aint get you anywhere* .',
+    botAdmin: 'Bot Must Be Admin First,make me an admin! *Im not allah to get that admin by myself* !',
+    owner: 'This Feature Is Only For Owner! *not dummy people like you,duh* !',
+    group: 'Feature Used Only For Groups!are you lonely? no friend group-chats?',
+    private: 'Features Used Only For Private Chat, *Go message me bby* ',
+    bot: 'This Feature Is Only For Bot!Ur a human! *dayum is this generation...* ',
+    wait: 'In process, *Stfu* and wait bro...',
+    linkm: 'Where is the link? *are you crazy?* ',
+    error: 'Error!! *zzz* ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'The nsfw feature has not been activated,go watch phub or please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
